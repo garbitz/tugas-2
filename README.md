@@ -2,6 +2,8 @@
 
 Pemrograman Berbasis Platform (CSGE602022) - diselenggarakan oleh Fakultas Ilmu Komputer Universitas Indonesia, Semester Ganjil 2022/2023
 
+Link aplikasi heroku : 'https://abzr-pbp-tugas2.herokuapp.com/'
+
 ## Buatlah bagan yang berisi request client ke web aplikasi berbasis Django beserta responnya dan jelaskan pada bagan tersebut kaitan antara urls.py, views.py, models.py, dan berkas html;
 
 ![BAGAN-DJANGO](https://user-images.githubusercontent.com/94692166/190308162-ac56a2bc-3b0c-469e-8581-c9739f884122.png)
