@@ -4,7 +4,7 @@ Pemrograman Berbasis Platform (CSGE602022) - diselenggarakan oleh Fakultas Ilmu 
 
 ## Buatlah bagan yang berisi request client ke web aplikasi berbasis Django beserta responnya dan jelaskan pada bagan tersebut kaitan antara urls.py, views.py, models.py, dan berkas html;
 
-![Gambar bagan request client ke web aplikasi berbasis django](Pictures/BAGAN-DJANGO.png)
+![BAGAN-DJANGO](https://user-images.githubusercontent.com/94692166/190308162-ac56a2bc-3b0c-469e-8581-c9739f884122.png)
 
 ## Jelaskan kenapa menggunakan virtual environment? Apakah kita tetap dapat membuat aplikasi web berbasis Django tanpa menggunakan virtual environment?
 
