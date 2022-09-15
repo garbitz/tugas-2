@@ -16,11 +16,11 @@ Kita bisa membuat aplikasi web berbasis Django tanpa menggunakan virtual environ
 
 ## Jelaskan bagaimana cara kamu mengimplementasikan poin 1 sampai dengan 4 di atas.
 
-1. Melakukan migrasi terlebih dahulu dengan 'python manage.py makemigrations' lalu 'python manage.py migrate'
-2. Membuat fungsi dalam 'views.py' yang menerima parameter request dan mengembalikan render dengan context yang ada
-3. Menambahkan iterasi dari list yang ada pada 'views.py' dalam 'katalog.html' untuk menampilkan katalog yang sudah ada di dalam folder fixtures
-4. Menambah path di dalam 'urls.py' dari katalog untuk fungsi 'show_catalog' yang sudah dibuat di 'views.py'
-5. Menambah path 'urls.py' dari katalog di dalam 'urls.py' dari project_django
+1. Melakukan migrasi terlebih dahulu dengan `python manage.py makemigrations` lalu `python manage.py migrate`
+2. Membuat fungsi dalam `views.py` yang menerima parameter request dan mengembalikan render dengan context yang ada
+3. Menambahkan iterasi dari list yang ada pada `views.py` dalam `katalog.html` untuk menampilkan katalog yang sudah ada di dalam folder fixtures
+4. Menambah path di dalam `urls.py` dari katalog untuk fungsi `show_catalog` yang sudah dibuat di `views.py`
+5. Menambah path `urls.py` dari katalog di dalam `urls.py` dari project_django
 6. Add, commit, dan push perubahan-perubahan tersebut ke github
 7. Membuat aplikasi baru di dalam website heroku dan memberi nama aplikasi tersebut
 8. Menambahkan nama aplikasi dan API key sebagai secret variable di dalam repository secret
